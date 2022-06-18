@@ -1,0 +1,13 @@
+{ "alumnos": [{
+	"nombre": "Luna",
+	"apellidos": "Gris",
+	"notas": [3, 8, 9, 7]
+}, {
+	"nombre": "Tag",
+	"apellidos": "Mod",
+	"notas": [4, 1, 2, 5]
+}, {
+	"nombre": "Agent",
+	"apellidos": "Skye",
+	"notas": [5, 2, 1, 10]
+}]}
